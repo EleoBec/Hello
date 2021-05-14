@@ -1,0 +1,19 @@
+Package: my1labpkg
+Title: First Lab Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Eleonore",
+           family = "Beckers",
+           role = c("aut", "cre"),
+           email = "eleonore.beckers@uclouvain.be")
+Description: I don't know yet what this package does. It's just an exercise. 
+ I can write many things, but I have to leave 2 spaces at the beginning of a new line. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    stringr (>= 1.4.0)
