@@ -6,6 +6,6 @@ To download the code as zip file :
 2. click the download zip button
 
 To install this package, run:
-`r
+```r
 devtools::install_github("eleobec/hello")
 ```
